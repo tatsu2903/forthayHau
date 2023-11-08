@@ -58,9 +58,9 @@ body{
   h1 span span{
     display: inline-block;
     width: auto;
-    margin-right: -0.3em;
-    animation: animate-characters 0.75s var(--index) forwards;
-    animation-duration: 4s ;
+    margin-right: 0.3em;
+    animation: animate-characters 0.7s var(--index) forwards;
+    animation-duration: 5s ;
     animation-iteration-count: infinite;
     opacity: 0;
     position: relative;
